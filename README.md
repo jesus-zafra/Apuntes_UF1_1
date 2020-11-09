@@ -1,7 +1,7 @@
 # Apuntes_UF1_1
 # Introducció: Elements del desenvolupament d'aplicacions
 ## Tipus de Software
-1. Software de sistemes:
+1. Software de sistemes:  
     Són aquells que treballen amb el maquinari del sistema. p.ex. sistemes operatius, els drivers...
 2. Software d'aplicacions
     Aquells programes que són d'utilitat per als usuaris, p.ex. suite ofimàtica, navegadors web...
