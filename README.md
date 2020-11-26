@@ -1,7 +1,9 @@
 # Introducció: Elements del desenvolupament d'aplicacions    
 ## Tipus de Software  
-1. Software de sistemes:  
-    Són aquells que treballen amb el maquinari del sistema. p.ex. sistemes operatius, els drivers...
+1. Software de sistemes: 
+
+![logos de varis S.O.](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/so-icons.jpg)
+-- Són aquells que treballen amb el maquinari del sistema. p.ex. sistemes operatius, els drivers...
 2. Software d'aplicacions:  
     Aquells programes que són d'utilitat per als usuaris, p.ex. suite ofimàtica, navegadors web...
 3. Software de desenvolupament:  
@@ -24,7 +26,7 @@
     El codi objecte és la traducció del programa en codi font a un codi binari determinat que servirà per muntar després el codi directament executable.
 * Codi executable:  
     Es compon de codis en llenguatge màquina, expressat en codi binari (amb uns i zeros), que son directament executats per la màquina.
-  
+# Cicle de vida del software  
 #### Fases del desenvolupament de software    
 * Anàlisi
 * Disseny
