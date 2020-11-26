@@ -44,11 +44,12 @@ Les activitats més habituals a la fase de disseny són:
 
 A partir del disseny comença la fase de codificació pròpiament dita on es fa el programa utilitzant diferents llenguatges informàtics.
   
-Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'entrega el programa al client. Mentre el programa és a les mans dels clients estem a la **fase de manteniment**. En aquesta darrera fase es poden afegir noves funcionalitats i/o corregir possibles errors que apareguin.
+Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'entrega el programa al client. Durant la explotació del sofware, amb el el programa ja a les mans dels clients comença la **fase de manteniment**. En aquesta darrera fase es poden afegir noves funcionalitats i/o corregir possibles errors que apareguin.
 ## Tipus de Manteniment
 * **Correctiu**: es corregeixen errors
 * **Perfectiu**: millores del funcionament
 * **Evolutiu**: s'afegeixen noves funcionalitats
-* **Adaptatiu**: 
+* **Adaptatiu**: s'adapta a nous entorns.
+
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]()
