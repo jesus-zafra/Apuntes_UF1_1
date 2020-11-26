@@ -7,7 +7,7 @@
 3. Software de desenvolupament:  
     Tot programa que serveixi per desenvolupar quelcom que s'ha de produïr. p.ex. editors, compiladors, programes de CAD...
   
-## Relació Hardware-Software  
+#### Relació Hardware-Software  
 * Disc dur:  
     Emmagatzema permanentment fitxers de dades o executables.
 * Memòria RAM: 
@@ -17,7 +17,7 @@
 * E/S:  
     recull noves dades desde perifèrics d'entrada (p.ex. un teclat) o mostra resultats mitjançant perifèrics de sortida (p.ex. un monitor).
   
-## Codi font, objecte i executable  
+#### Codi font, objecte i executable  
 * Codi font:   
     El codi font és el programa escrit fent ús de la sintaxi del llenguatge de programació que utilitzem, i està guardat amb codis alfanumèrics
 * Codi objecte:  
@@ -25,7 +25,7 @@
 * Codi executable:  
     Es compon de codis en llenguatge màquina, expressat en codi binari (amb uns i zeros), que son directament executats per la màquina.
   
-## Fases del desenvolupament de software    
+#### Fases del desenvolupament de software    
 * Anàlisi
 * Disseny
 * Codificació
@@ -45,11 +45,24 @@ Les activitats més habituals a la fase de disseny són:
 A partir del disseny comença la fase de codificació pròpiament dita on es fa el programa utilitzant diferents llenguatges informàtics.
   
 Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'entrega el programa al client. Durant la explotació del sofware, amb el el programa ja a les mans dels clients comença la **fase de manteniment**. En aquesta darrera fase es poden afegir noves funcionalitats i/o corregir possibles errors que apareguin.
-## Tipus de Manteniment
-* **Correctiu**: es corregeixen errors
-* **Perfectiu**: millores del funcionament
-* **Evolutiu**: s'afegeixen noves funcionalitats
+#### Tipus de Manteniment
+* **Correctiu**: es corregeixen errors.
+* **Perfectiu**: millores del funcionament.
+* **Evolutiu**: s'afegeixen noves funcionalitats.
 * **Adaptatiu**: s'adapta a nous entorns.
-
+# Models de Software
+* **Models clàsics**:  
+-- **Model en cascada**
+-- **Model en V**
+* **Model de construcció de prototips**
+* **Models evolutius o incrementals**
+-- **Model en espiral (iteratiu)**
+-- **Metodologies àgils**
+#### Model en Cascada
+En el model en cascada pasem de fase a fase una darrera de l'altre desde la primera fins a la darrera fase. 
 <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/cascada.png" alt ="model en cascada" />
+Anàlisi -> Disseny -> Codificació -> Proves -> Manteniment
+Cada fase s'ha de comnformar amb el resultat que li dona la fase anterior.
+#### Model en V
+
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]()
