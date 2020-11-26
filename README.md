@@ -61,7 +61,6 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
 #### Model en Cascada
 En el model en cascada pasem de fase a fase una darrera de l'altre desde la primera fins a la darrera fase. 
 <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/cascada.png" alt ="model en cascada" />
-Anàlisi -> Disseny -> Codificació -> Proves -> Manteniment
 Cada fase s'ha de comnformar amb el resultat que li dona la fase anterior.
 #### Model en V
 
