@@ -2,7 +2,7 @@
 ## Tipus de Software  
 1. Software de sistemes: 
 
-![logos de varis S.O.](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/so-icons.jpg)
+![logos de varis S.O.](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/so-icons.jpg)
 -- Són aquells que treballen amb el maquinari del sistema. p.ex. sistemes operatius, els drivers...
 2. Software d'aplicacions:  
     Aquells programes que són d'utilitat per als usuaris, p.ex. suite ofimàtica, navegadors web...
