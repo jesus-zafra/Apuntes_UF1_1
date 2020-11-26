@@ -51,5 +51,5 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
 * **Evolutiu**: s'afegeixen noves funcionalitats
 * **Adaptatiu**: s'adapta a nous entorns.
 
-
+<img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/cascada.png" alt ="model en cascada" />
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]()
