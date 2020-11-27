@@ -8,13 +8,13 @@
 2. **Software d'aplicacions**:  
    ![icona del wordpad](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/wordpad-paint.jpg) 
    
-    Aquells programes que són d'utilitat per als usuaris, p.ex. suite ofimàtica, navegadors web...
+    Aquells programes que són d'utilitat per als usuaris, p.ex. suite ofimàtica, wordpad, paint, navegadors web, etc.
     
 3. **Software de desenvolupament**: 
   
    ![programa de diseny amb un braç robòtic](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/autocad-brazo-robot.jpg)  
    
-    Tot programa que serveixi per desenvolupar quelcom que s'ha de produïr. p.ex. editors, compiladors, programes de CAD...
+    Tot programa que serveixi per desenvolupar quelcom que s'ha de produïr. p.ex. editors, compiladors, programes de CAD, etc.
   
 #### Relació Hardware-Software  
 * **Disc dur**:  
@@ -40,7 +40,8 @@
    ![foto amb exemples de perifèrics E/S](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/perifericos.gif)  
   
     Els **perifèrics d'entrada** ens faciliten l'entrada de les dades. Un típic exemple d'aquest és el teclat. Per altra banda, els **perifèrics de sortida** permeten que visualitzem (o millor dit, percibim), els resultats de la gestió de les entrades que vam entrar. El perifèric de sortida típic per excel·lència són els monitors, però també ho són els altaveus, les impressores, etc.
-  
+---
+# Programes: Tipus de codi
 #### Codi font, objecte i executable  
 * Codi font:   
     El codi font és el programa escrit fent ús de la sintaxi del llenguatge de programació que utilitzem guardat amb codis alfanumèrics.
@@ -48,6 +49,7 @@
     El codi objecte és la traducció del programa en codi font a un codi binari determinat que servirà per muntar el codi executable.
 * Codi executable:  
     Es compon de codis en llenguatge màquina, expressat en codi binari (amb uns i zeros), que són directament executats per la màquina.
+---
 # Cicle de vida del software  
 #### Fases del desenvolupament de software    
 * Anàlisi
@@ -74,6 +76,9 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
 * **Perfectiu**: millores del funcionament.
 * **Evolutiu**: s'afegeixen noves funcionalitats.
 * **Adaptatiu**: s'adapta a nous entorns.
+  
+---
+  
 # Models de Software
 * **Models clàsics**:  
    **Model en cascada**
@@ -87,7 +92,7 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
    ![diagrama de model en cascada](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/metodologia-cascada.png)  
 
 #### Model en V
-   En el model en V, es parteix de les fases d'anàlisi cap avall igual que en el model en cascada però durant tot el procès es comuniquen varis departaments per verificar i validar parts del programa i tornar-los a una fase prèvia si fos necessari, tal i com s'observa al diagrama. És un model que s'adapta millor davant molts canvis en les especificacions dels programes al contrari que succeïa amb el *model en cascada*.
+   En el model en V, es parteix de les fases d'anàlisi cap avall de forma semblant a com és fa en el model en cascada, però aquí durant tot el procès es comuniquen varis departaments per verificar i validar els diferents apartats del projecte retornant-les a fases prèvia si és necessari, tal i com s'observa al diagrama. És un model que s'adapta molt bé davant nombrosos canvis en les especificacions, al contrari del que succeïa amb el *model en cascada*.
    
    ![diagrama de model en V](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/modelo-v.jpg)   
 ### Model en Espiral
