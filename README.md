@@ -18,20 +18,25 @@
   
 #### Relació Hardware-Software  
 * **Disc dur**:  
+
    ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/disco-duro.jpg) 
   
     Emmagatzema permanentment fitxers de dades o executables.
+    
 * **Memòria RAM**: 
   
    ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/memoria-ram.jpg)  
   
     Emmagatzema temporalment dades binàries que poden ser codi executable o informació. Es moltíssim molt més ràpida d'accedir que un disc dur.
+    
 * **CPU**: 
    ![foto d'una CPU](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/cpu.jpg)  
       
-    La CPU, o unitat central de procés, llegeix i executa instruccions o dades emmagatzemades en la memòria RAM.  
+    La CPU, o unitat central de procés, llegeix i executa instruccions o dades emmagatzemades en la memòria RAM. 
+    
 * **E/S**:  
-   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/perifericos.gif)  
+
+   ![foto amb exemples de perifèrics E/S](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/perifericos.gif)  
   
     Els **perifèrics d'entrada** ens faciliten l'entrada de les dades. Un típic exemple d'aquest és el teclat. Per altra banda, els **perifèrics de sortida** permeten que visualitzem (o millor dit, percibim), els resultats de la gestió de les entrades que vam entrar. El perifèric de sortida típic per excel·lència són els monitors, però també ho són els altaveus, les impressores, etc.
   
