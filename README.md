@@ -23,7 +23,7 @@
 * **CPU**: 
    ![foto d'una CPU](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/cpu.jpg)  
       
-    llegeix i executa instruccions o dades emmagatzemades en la memòria RAM.
+    La CPU, o unitat central de procés, llegeix i executa instruccions o dades emmagatzemades en la memòria RAM.  
 * **E/S**:  
    ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/perifericos.gif)  
   
