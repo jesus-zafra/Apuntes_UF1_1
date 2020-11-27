@@ -130,7 +130,9 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
   * Scrum
   * XP (eXtrem Programming)  
 ---
-  
+
+   ![llenguatges de programació](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/lenguajes.jpg)  
+   
 # Llenguatges de programació  
   
 #### Obtenció de codi executable  
@@ -189,6 +191,8 @@ Hi han dos paradigmes:
   
 ---  
   
+   ![llenguatges de programació](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/lenguajes2.jpg)     
+   
 # Criteris per sel·leccionar un llenguatge
 * **Facilitat d’aprenentatge**  
    És molt important que el llenguatge sigui fàcil d’entendre. Per això cal que hi hagi abundant documentació, i que aquesta sigui de bona qualitat. També és recomanable que hi hagi una certa base d’usuaris per tal de solucionar possibles dubtes o problemes de forma ràpida, posant-los en comú amb altres programadors.  
