@@ -81,21 +81,21 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
   
 # Models de Software
 * **Models clàsics**:  
-   **Model en cascada**
-   **Model en V**
-* **Model de construcció de prototips**
-* **Models evolutius o incrementals**
-   **Model en espiral (iteratiu)**
-   **Metodologies àgils**
-#### Model en Cascada
+   **Model en cascada**  
+   **Model en V**  
+* **Model de construcció de prototips**  
+* **Models evolutius o incrementals**  
+   **Model en espiral (iteratiu)**  
+   **Metodologies àgils**  
+#### Model en Cascada  
    En el model en cascada pasem de fase a fase una darrera de l'altre desde la primera fins a la darrera fase, d'amunt cap avall, en aquest precís ordre, i cada fase s'ha de conformar amb el resultat que li dona la fase anterior. Aquesta rigidessa fa que els projectes fets seguint aquest model s'adaptin mal a un continuat canvi en les especificacions d'un producte.
    ![diagrama de model en cascada](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/metodologia-cascada.png)  
 
-#### Model en V
+#### Model en V  
    En el model en V, es parteix de les fases d'anàlisi cap avall de forma semblant a com és fa en el model en cascada, però aquí durant tot el procès es comuniquen varis departaments per verificar i validar els diferents apartats del projecte retornant-les a fases prèvia si és necessari, tal i com s'observa al diagrama. És un model que s'adapta molt bé davant nombrosos canvis en les especificacions, al contrari del que succeïa amb el *model en cascada*.
    
    ![diagrama de model en V](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/modelo-v.jpg)   
-### Model en Espiral
+### Model en Espiral  
    En el model en espiral sempre s'està treballant i portant la part adient al departament que calgui portar-lo per fer-li millores o adaptacions necessàries. És el model ideal per desenvolupar programes en els que, en un futur es prevegin nombrosos canvis en les seves especificacions.
    
    ![diagrama de model en espiral](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/model-espiral.png)  
