@@ -189,7 +189,7 @@ Hi han dos paradigmes:
   
 ---  
   
-# Criteris per seleccionar un llenguatge
+# Criteris per sel·leccionar un llenguatge
 * **Facilitat d’aprenentatge**  
    És molt important que el llenguatge sigui fàcil d’entendre. Per això cal que hi hagi abundant documentació, i que aquesta sigui de bona qualitat. També és recomanable que hi hagi una certa base d’usuaris per tal de solucionar possibles dubtes o problemes de forma ràpida, posant-los en comú amb altres programadors.  
 
