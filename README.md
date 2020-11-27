@@ -2,12 +2,18 @@
 ## Tipus de Software  
 1. **Software de sistemes**:  
    ![logos de varis S.O.](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/so-icons.jpg)  
-   Són aquells que treballen amb el maquinari del sistema. p.ex. sistemes operatius, els drivers...  
+   
+   Són aquells que treballen amb el maquinari del sistema. p.ex. sistemes operatius, els drivers... 
+   
 2. **Software d'aplicacions**:  
-   ![icona del wordpad](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/wordpad-paint.jpg)  
+   ![icona del wordpad](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/wordpad-paint.jpg) 
+   
     Aquells programes que són d'utilitat per als usuaris, p.ex. suite ofimàtica, navegadors web...
+    
 3. **Software de desenvolupament**: 
+  
    ![programa de diseny amb un braç robòtic](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/autocad-brazo-robot.jpg)  
+   
     Tot programa que serveixi per desenvolupar quelcom que s'ha de produïr. p.ex. editors, compiladors, programes de CAD...
   
 #### Relació Hardware-Software  
