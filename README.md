@@ -1,6 +1,6 @@
 # Introducció: Elements del desenvolupament d'aplicacions    
 ## Tipus de Software  
-Es poden clasificar en tres grups:
+Es poden classificar en tres grups:
 1. **Software de sistemes**  
 2. **Software d'aplicacions**  
 3. **Software de desenvolupament**  
