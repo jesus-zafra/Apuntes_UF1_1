@@ -46,6 +46,7 @@ Es poden classificar en tres grups:
   
     Els **perifèrics d'entrada** ens faciliten l'entrada de les dades. Un típic exemple d'aquest és el teclat. Per altra banda, els **perifèrics de sortida** permeten que visualitzem (o millor dit, percibim), els resultats de la gestió de les entrades que vam entrar. El perifèric de sortida típic per excel·lència són els monitors, però també ho són els altaveus, les impressores, etc.
 ---  
+
 # Programes: Tipus de codi
 #### Codi font, objecte i executable  
 * Codi font:   
@@ -54,6 +55,9 @@ Es poden classificar en tres grups:
     El codi objecte és la traducció del programa en codi font a un codi binari determinat que servirà per muntar el codi executable.
 * Codi executable:  
     Es compon de codis en llenguatge màquina, expressat en codi binari (amb uns i zeros), que són directament executats per la màquina.
+
+   ![diagrama amb tipus de codi](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/tipos-codigo.png)  
+  
 ---  
 # Cicle de vida del software  
 #### Fases del desenvolupament de software    
