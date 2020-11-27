@@ -15,7 +15,7 @@
    ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/disco-duro.jpg)  
     Emmagatzema permanentment fitxers de dades o executables.
 * **Memòria RAM**: 
-   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/memoria-ram.jpg)  
+   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/memoria-ram.jpg)   
     Emmagatzema temporalment dades binàries que poden ser codi executable o informació. Es moltíssim molt més ràpida d'accedir que un disc dur.
 * **CPU**: 
    ![foto d'una CPU](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/cpu.jpg)  
@@ -76,7 +76,7 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
 ### Model en Espiral
    En el model en espiral sempre s'està treballant i portant la part adient al departament que calgui portar-lo per fer-li millores o adaptacions necessàries. És el model ideal per desenvolupar programes en els que, en un futur es prevegin nombrosos canvis en les seves especificacions.
    
-   ![diagrama de model en espiral](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/model-espiral.png)   
+   ![diagrama de model en espiral](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/model-espiral.png)     
 
    
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]()
