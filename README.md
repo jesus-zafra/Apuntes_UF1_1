@@ -30,6 +30,7 @@
     Emmagatzema temporalment dades binàries que poden ser codi executable o informació. Es moltíssim molt més ràpida d'accedir que un disc dur.
     
 * **CPU**: 
+
    ![foto d'una CPU](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/cpu.jpg)  
       
     La CPU, o unitat central de procés, llegeix i executa instruccions o dades emmagatzemades en la memòria RAM. 
