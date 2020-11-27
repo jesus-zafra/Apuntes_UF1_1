@@ -1,27 +1,27 @@
 # Introducció: Elements del desenvolupament d'aplicacions    
 ## Tipus de Software  
 1. **Software de sistemes**:  
-   ![logos de varis S.O.](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/so-icons.jpg)
+   ![logos de varis S.O.](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/so-icons.jpg)  
    Són aquells que treballen amb el maquinari del sistema. p.ex. sistemes operatius, els drivers...  
 2. **Software d'aplicacions**:  
-   ![icona del wordpad](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/wordpad-paint.jpg)
+   ![icona del wordpad](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/wordpad-paint.jpg)  
     Aquells programes que són d'utilitat per als usuaris, p.ex. suite ofimàtica, navegadors web...
 3. **Software de desenvolupament**: 
-   ![programa de diseny amb un braç robòtic](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/autocad-brazo-robot.jpg)
+   ![programa de diseny amb un braç robòtic](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/autocad-brazo-robot.jpg)  
     Tot programa que serveixi per desenvolupar quelcom que s'ha de produïr. p.ex. editors, compiladors, programes de CAD...
   
 #### Relació Hardware-Software  
 * **Disc dur**:  
-   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/disco-duro.jpg)
+   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/disco-duro.jpg)  
     Emmagatzema permanentment fitxers de dades o executables.
 * **Memòria RAM**: 
-   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/memoria-ram.jpg)
+   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/memoria-ram.jpg)  
     Emmagatzema temporalment dades binàries que poden ser codi executable o informació. Es moltíssim molt més ràpida d'accedir que un disc dur.
 * **CPU**: 
-   ![foto d'una CPU](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/cpu.jpg)
+   ![foto d'una CPU](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/cpu.jpg)  
     llegeix i executa instruccions o dades emmagatzemades en la memòria RAM.
 * **E/S**:  
-   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/perifericos.gif)
+   ![foto de un disc dur](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/perifericos.gif)  
     Els **perifèrics d'entrada** ens faciliten l'entrada de les dades. Un típic exemple d'aquest és el teclat. Per altra banda, els **perifèrics de sortida** permeten que visualitzem (o millor dit, percibim), els resultats de la gestió de les entrades que vam entrar. El perifèric de sortida típic per excel·lència són els monitors, però també ho són els altaveus, les impressores, etc.
   
 #### Codi font, objecte i executable  
@@ -67,7 +67,7 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
    **Metodologies àgils**
 #### Model en Cascada
    En el model en cascada pasem de fase a fase una darrera de l'altre desde la primera fins a la darrera fase, d'amunt cap avall, en aquest precís ordre, i cada fase s'ha de conformar amb el resultat que li dona la fase anterior. Aquesta rigidessa fa que els projectes fets seguint aquest model s'adaptin mal a un continuat canvi en les especificacions d'un producte.
-   ![diagrama de model en cascada](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/metodologia-cascada.png)
+   ![diagrama de model en cascada](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/metodologia-cascada.png)  
 
 #### Model en V
    En el model en V, es parteix de les fases d'anàlisi cap avall igual que en el model en cascada però durant tot el procès es comuniquen varis departaments per verificar i validar parts del programa i tornar-los a una fase prèvia si fos necessari, tal i com s'observa al diagrama. És un model que s'adapta millor davant molts canvis en les especificacions dels programes al contrari que succeïa amb el *model en cascada*.
