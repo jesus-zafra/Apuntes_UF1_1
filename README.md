@@ -122,13 +122,13 @@ Un cop codificat el programa, es fan proves i quan tot funcioni correctament s'e
    ![diagrama de model en espiral](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/model-espiral.png)  
   
 ### Metodologies Àgils
-* Es basen en el desevolupament iteratiu e incremental
+* Es basen en el desenvolupament iteratiu e incremental
 * Els requisits i solucions evolucionen amb el temps d'equips organitzats
 * El treball es realitza amb la cooperació multidisciplinar 
 * les més conegudes son:
-  * Kanban  
-  * Scrum
-  * XP (eXtrem Programming)  
+  * [Kanban](https://es.wikipedia.org/wiki/Kanban) (mètode inventat per Toyota, amb fitxes i contenidors)
+  * [Scrum](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))
+  * [XP (eXtrem Programming)](https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema)  
 ---
 
    ![llenguatges de programació](https://raw.githubusercontent.com/jesus-zafra/Apuntes_UF1_1/main/lenguajes.jpg)  
